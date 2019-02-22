@@ -1,3 +1,8 @@
+在原文的基础上做了一点点修改，mongo3.4.3.6测试时有部分代码错误：
+https://pan.baidu.com/s/1h67G0-WDItIZl6_XzHC4hQ
+
+
+
 MongoDB performance monitor plugin for Open-Falcon 
 --------------------------------
 
